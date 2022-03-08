@@ -22,10 +22,13 @@
   ### 
  
 <div> 
-  <a href="https://www.instagram.com/pabl0nes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-vinicius-de-araujo-gon%C3%A7alves-8a290614b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
  
   ![Snake animation](https://github.com/pabl0nes/pabl0nes/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+   <a href="https://www.instagram.com/pabl0nes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pablo-vinicius-de-araujo-gon%C3%A7alves-8a290614b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
